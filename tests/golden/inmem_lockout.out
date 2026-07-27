@@ -1,0 +1,43 @@
+
+  Group 7 ATM
+  -----------
+
+Main menu
+1. Login
+2. Admin
+3. Quit
+> Account number: No PIN set for this account. Pick one now.
+New PIN: Confirm PIN: Login successful.
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Logged out.
+
+Main menu
+1. Login
+2. Admin
+3. Quit
+> Account number: PIN: Wrong PIN, try again.
+PIN: Wrong PIN, try again.
+PIN: Too many wrong tries. Account locked.
+
+Main menu
+1. Login
+2. Admin
+3. Quit
+> Account number: Account is locked. Please see the admin.
+
+Main menu
+1. Login
+2. Admin
+3. Quit
+> 
+Thanks for using Group 7's ATM.
+Transactions this session: 0

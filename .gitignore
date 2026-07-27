@@ -1,0 +1,6 @@
+# build artifacts
+atm
+*.o
+
+# persistent state file (created at runtime)
+atm_data.dat

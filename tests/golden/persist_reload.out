@@ -1,0 +1,144 @@
+
+  Group 7 ATM (saved)
+  -------------------
+
+Main menu
+1. Login
+2. Admin
+3. Quit
+> Account number: No PIN set for this account. Pick one now.
+New PIN: Confirm PIN: Login successful.
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Amount: GHS Deposit done.
+Balance: GHS 1,300.00
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Logged out.
+
+Main menu
+1. Login
+2. Admin
+3. Quit
+> Admin PIN: 
+Admin menu
+1. View accounts
+2. Unlock account
+3. Reset a PIN
+4. View account history
+5. Create account
+6. Back
+> New account number: Account created.
+
+Admin menu
+1. View accounts
+2. Unlock account
+3. Reset a PIN
+4. View account history
+5. Create account
+6. Back
+> 
+Main menu
+1. Login
+2. Admin
+3. Quit
+> 
+Thanks for using Group 7's ATM.
+Transactions this session: 1
+
+  Group 7 ATM (saved)
+  -------------------
+
+Main menu
+1. Login
+2. Admin
+3. Quit
+> Account number: PIN: Login successful.
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Balance: GHS 1,300.00
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> 
+History:
+  1. deposit    +GHS 300.00  <TIMESTAMP>
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Logged out.
+
+Main menu
+1. Login
+2. Admin
+3. Quit
+> Account number: No PIN set for this account. Pick one now.
+New PIN: Confirm PIN: Login successful.
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Balance: GHS 0.00
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Logged out.
+
+Main menu
+1. Login
+2. Admin
+3. Quit
+> 
+Thanks for using Group 7's ATM.
+Transactions this session: 0

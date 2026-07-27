@@ -1,0 +1,162 @@
+
+  Group 7 ATM
+  -----------
+
+Main menu
+1. Login
+2. Admin
+3. Quit
+> Account number: No PIN set for this account. Pick one now.
+New PIN: Confirm PIN: Login successful.
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Balance: GHS 1,000.00
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Amount: GHS Deposit done.
+Balance: GHS 1,012.50
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Amount: GHS Deposit done.
+Balance: GHS 1,012.55
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Amount: GHS Deposit done.
+Balance: GHS 1,112.55
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Balance: GHS 1,112.55
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Amount: GHS Please enter a valid amount, e.g. 50 or 12.50.
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Amount: GHS Please enter a valid amount, e.g. 50 or 12.50.
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Amount: GHS Withdrawals must be a multiple of GHS 10.
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Amount: GHS Withdrawal done.
+Balance: GHS 862.55
+Dispensing:
+  1 x GHS 200
+  1 x GHS 50
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Balance: GHS 862.55
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> 
+History:
+  1. deposit    +GHS 12.50  <TIMESTAMP>
+  2. deposit    +GHS 0.05  <TIMESTAMP>
+  3. deposit    +GHS 100.00  <TIMESTAMP>
+  4. withdraw   -GHS 250.00  <TIMESTAMP>
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Logged out.
+
+Main menu
+1. Login
+2. Admin
+3. Quit
+> 
+Thanks for using Group 7's ATM.
+Transactions this session: 4

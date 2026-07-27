@@ -1,0 +1,125 @@
+
+  Group 7 ATM
+  -----------
+
+Main menu
+1. Login
+2. Admin
+3. Quit
+> Account number: No PIN set for this account. Pick one now.
+New PIN: PIN must be a 4-digit number (1000-9999).
+New PIN: Confirm PIN: Login successful.
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Amount: GHS Deposit done.
+Balance: GHS 6,000.00
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Amount: GHS Withdrawals must be a multiple of GHS 10.
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Amount: GHS Over the GHS 1,000 per-withdrawal limit.
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Amount: GHS Withdrawal done.
+Balance: GHS 5,000.00
+Dispensing:
+  5 x GHS 200
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Amount: GHS Withdrawal done.
+Balance: GHS 4,000.00
+Dispensing:
+  5 x GHS 200
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Amount: GHS That would pass the GHS 2,000 daily withdrawal limit.
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Transfer to account: Cannot transfer to the same account.
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Transfer to account: No account with that number.
+
+Account menu
+1. Balance
+2. Deposit
+3. Withdraw
+4. Transfer
+5. History
+6. Mini statement
+7. Change PIN
+8. Log out
+> Logged out.
+
+Main menu
+1. Login
+2. Admin
+3. Quit
+> 
+Thanks for using Group 7's ATM.
+Transactions this session: 3
